@@ -1,12 +1,12 @@
-Power BI Internship at Cognifyz Technologies
+# Power BI Internship at Cognifyz Technologies
 
-Overview
+## Overview
 
-During my internship at Cognifyz Technologies, I was assigned 7 tasks under the domain of Data Visualization. Each task involved loading data, performing analysis, and creating interactive dashboards using Power BI. Below is a detailed breakdown of each task and the insights gained.
+During my internship at Cognifyz Technologies, I was assigned 7 tasks under the domain of Data Visualization. Each task involved loading data, performing analysis, and creating interactive dashboards using Power BI. Below is a detailed breakdown of each task and the insights gained.<br />
 
-Tasks
+# Tasks
 
-Task 1: Data Exploration and Summary
+## Task 1: Data Exploration and Summary
 
 Objective: To explore the dataset and provide a summary of key metrics.
 
@@ -19,7 +19,7 @@ Output: An interactive dashboard displaying key metrics and data distributions.
 
 
 
-Task 2: Gender-Based Analysis
+## Task 2: Gender-Based Analysis
 
 Objective: To analyze the dataset based on gender.
 
@@ -29,7 +29,7 @@ Output: An interactive dashboard showcasing gender-based comparisons and trends.
 
 
 
-Task 3: Objective Analysis
+## Task 3: Objective Analysis
 
 Objective: To analyze the data based on specific objectives.
 
@@ -39,7 +39,7 @@ Output: An interactive dashboard presenting objective-based insights.
 
 
 
-Task 4: Investment Duration and Frequency
+## Task 4: Investment Duration and Frequency
 
 Objective: To analyze the duration and frequency of investments.
 
@@ -49,7 +49,7 @@ Output: An interactive dashboard illustrating investment timelines and frequency
 
 
 
-Task 5: Reason for Investment and Source of Information
+## Task 5: Reason for Investment and Source of Information
 
 Objective: To understand the reasons behind investments and their sources of information.
 
@@ -59,7 +59,7 @@ Output: An interactive dashboard detailing reasons for investments and their cor
 
 
 
-Task 6: Source of Information
+## Task 6: Source of Information
 
 Objective: To delve deeper into the sources of information used for investments.
 
@@ -69,7 +69,7 @@ Output: An interactive dashboard highlighting the most influential information s
 
 
 
-Task 7: Combine All Insights into a Dashboard
+## Task 7: Combine All Insights into a Dashboard
 
 Objective: To integrate all insights from previous tasks into a comprehensive dashboard.
 
@@ -80,11 +80,10 @@ Output: A consolidated dashboard providing a holistic view of the data insights.
 
 
 
-Conclusion
+# Conclusion
 Throughout these tasks, I developed a robust understanding of data visualization and analysis using Power BI. Each task contributed to honing my skills in data handling, exploration, and dashboard creation, culminating in a comprehensive view of the dataset.
 
 
-
-Acknowledgements
+# Acknowledgements
 I would like to thank Cognifyz Technologies for this incredible learning opportunity. The mentorship and practical experience have been invaluable in advancing my skills in data visualization and analysis.
 
